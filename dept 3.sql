@@ -1,0 +1,2 @@
+INSERT INTO department(dept_name, dept_id, manager)
+VALUES ('Security', 015, 'Best'), ('cleaner', 006, 'Daberechi'), ('Logistics', 007, ' James'), ('Auxillary-staffs', 008, 'Mark'), ('Finance', 009, 'Stone');
